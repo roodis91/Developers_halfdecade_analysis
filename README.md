@@ -1,10 +1,10 @@
-**Decoding Tech Trends: A Five-Year Analysis of Stack Overflow's Developer Surveys**
+**Decoding Tech Trends: 5 Year analysis of Developer surveys**
 
 Stack Overflow Annual Developer Survey collects data from developers worldwide, focusing on various aspects like programming languages, tools, technologies, work preferences, employment status, and demographics. It aims to understand trends in the tech industry, developer experiences, and challenges. The survey results provide insights into the current state of software development, popular technologies, career satisfaction, and the diversity of the developer community. 
 
-This project dives into the last 5 years of these surveys. This data will be my primary data source for this project.
+This project examines pay scales, learning methods, job satisfaction, programming language trends, and the relationship between education, job types, and compensation in the tech industry from 2019 to 2023.
 
-**Source:** https://insights.stackoverflow.com/survey 
+**Data Source:** https://insights.stackoverflow.com/survey 
 
 **Project goals:**
 
@@ -15,11 +15,10 @@ Identify the top languages over the years
 
 **Key findings include:**
 
-SQL's dominance continues, while Python and TypeScript are on the rise.
+SQL's dominance continues, while Python and TypeScript are on the rise reflecting their importance in web dev, data.
+Job satisfaction analysis, hindered by the absence of direct data post-2021, shifted towards exploring correlations with managerial competence and cultural factors, revealing their substantial impact.
 Online learning is now the main route to coding proficiency, with traditional higher education still key to employment.
-Job satisfaction insights are derived from managerial competence and cultural factors, despite the lack of recent satisfaction data.
-In programming, JavaScript, Python, and TypeScript are leading, reflecting their importance in web dev, data science, and app development.
-Senior roles, especially in back-end and full-stack development, earn top dollar. Freelancing shows significant earning potential, particularly in legal, insurance, and healthcare sectors.
+Compensation analysis across different work types indicates that senior roles and roles with specialization, particularly in back-end development, command the highest pay, with graduate degrees significantly boosting earnings potential. Freelancing emerges as highly lucrative, especially in sectors like Legal, Insurance, and Healthcare.
 
 **Tools and Technologies**
 
